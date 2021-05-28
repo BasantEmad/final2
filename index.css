@@ -1,0 +1,32 @@
+body{
+    background-image: url(javascript-oracle-corporation-logo-png-favpng-TcSym3kyAh1NErBMhAJZS77eR.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+}
+.card{
+    background-color:gray !important;
+    color:black ;
+    font-weight: bold;
+    font-style: italic ;
+    text-align: center;
+}
+.none{
+    display: none;
+}
+.btn {
+    padding: 3px !important;
+}
+@media(max-width: 750px) {
+   body{
+    background-size: 100% 300%;
+    background-position: center center; 
+   } 
+   h1{
+    font-size: 35px !important;
+    font-weight: 600 !important;
+    
+   }
+  
+  }
+
+  
